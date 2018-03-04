@@ -1,6 +1,6 @@
 # Email Spam Filter usinng Naive Bayes
 
-#### Built a Naïve Bayes classifier for classifying email as ham or spam using the multinomial naïve bayes classifier.
+#### Built a classifier for classifying email as ham or spam using the multinomial naïve bayes classifier.
 
 ####  Libraries used: 
 
