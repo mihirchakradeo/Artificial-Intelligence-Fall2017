@@ -2,7 +2,7 @@
 
 #### Built a classifier for classifying email as ham or spam using the multinomial naïve bayes classifier.
 
-####  Libraries used: 
+####  Libraries used
 
 	argparse – for parsing command line arguments 
 
@@ -10,8 +10,8 @@
 
 	math – calculating logarithms
 
-#### Accuracy:
+#### Accuracy
 	87% without smoothing
 	91.4% with Laplace smoothing
-#### Execution steps:
+#### Execution steps
 	python q2_classifier.py
